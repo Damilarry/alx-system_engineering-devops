@@ -1,0 +1,2 @@
+#!/bin/batch
+echo $PATH | tr ":" "\n" | wc -1
