@@ -1,2 +1,1 @@
-#!/bin/bach
-echo $PATH | tr
+echo $PATH | tr ":" "\n" " WC -1
